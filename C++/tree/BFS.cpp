@@ -35,7 +35,7 @@ void BFS(node* root)
 	{
 		int siz = q.size();
 		
-//		while(siz--)
+//		while(siz--)  This runs with or without while loop
 //		{
 			node* val = q.front();
 			q.pop();
